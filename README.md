@@ -31,24 +31,6 @@ Building products that connect people with what matters most.
 
 <br/>
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saidjamesphilip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=FFB7C5&icon_color=E2414C&text_color=FFF5EE&ring_color=E2414C" width="420" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saidjamesphilip&theme=tokyonight&hide_border=true&background=0a0a1a&ring=E2414C&fire=FFB7C5&currStreakLabel=FFB7C5&sideLabels=FFB7C5&currStreakNum=FFF5EE&sideNums=FFF5EE&dates=666" width="420" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidjamesphilip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=FFB7C5&text_color=FFF5EE" width="320" alt="Top Languages" />
-</p>
-
-<p align="center"><img src="./assets/footer.svg" width="500" /></p>
-
-<br/>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saidjamesphilip&color=E2414C&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
