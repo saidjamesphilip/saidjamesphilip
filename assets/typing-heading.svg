@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="460" height="50" viewBox="0 0 460 50">
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="50" viewBox="0 0 460 50" style="image-rendering: pixelated;">
   <defs>
     <clipPath id="reveal">
       <rect x="0" y="0" height="50">
@@ -8,16 +8,14 @@
           dur="9s" fill="freeze"/>
       </rect>
     </clipPath>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FFB7C5"/>
-      <stop offset="50%" style="stop-color:#ffffff"/>
-      <stop offset="100%" style="stop-color:#E2414C"/>
-    </linearGradient>
   </defs>
 
-  <text x="0" y="36" font-family="monospace" font-size="32" font-weight="600" fill="url(#textGrad)" clip-path="url(#reveal)">Hey, I'm James</text>
+  <!-- GBA-style text with shadow -->
+  <text x="2" y="38" font-family="monospace" font-size="32" font-weight="700" fill="#383838" clip-path="url(#reveal)" opacity="0.3">Hey, I'm James</text>
+  <text x="0" y="36" font-family="monospace" font-size="32" font-weight="700" fill="#282838" clip-path="url(#reveal)">Hey, I'm James</text>
 
-  <rect y="8" width="3" height="32" rx="1" fill="#FFB7C5">
+  <!-- Blinking cursor -->
+  <rect y="8" width="3" height="32" rx="1" fill="#C83030">
     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1s" repeatCount="indefinite"/>
     <animate attributeName="x"
       values="1;23;45;67;89;111;133;155;177;199;221;243;265;287;309"
