@@ -3,7 +3,7 @@
 Head of Product for **Marketplaces**, **Sports** & **Jobs** at **Ringier South Africa**.
 Building products that connect people with what matters most.
 
-[![James doing critical work](/saidjamesphilip/saidjamesphilip/raw/main/assets/pokemon-scene.jpg)](/saidjamesphilip/saidjamesphilip/blob/main/assets/pokemon-scene.jpg)
+![James doing critical work](./assets/pokemon-scene.jpg)
 
 ## Connect with me
 
