@@ -1,6 +1,6 @@
 ![Hey, I'm James](./assets/header.svg)
 
-![James doing critical work](./assets/pokemon-scene.jpg)
+![James doing critical work](./assets/pokemon-scene.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saidjamesphilip/">
