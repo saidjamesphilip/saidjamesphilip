@@ -1,7 +1,7 @@
 # Hey, I'm James
 
 Head of Product for **Marketplaces**, **Sports** & **Jobs** at **Ringier South Africa**.
-Building products that connect people with what matters most.
+
 
 ![James doing critical work](./assets/pokemon-scene.jpg)
 
